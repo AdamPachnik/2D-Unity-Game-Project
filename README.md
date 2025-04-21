@@ -1,5 +1,7 @@
 # 🎮 2D Unity Game Project
-This is a 2D game developed in Unity by Adam Páchnik as part of an information and network technologies program. The game features 5 playable levels with various interactive elements, characters, and a complete user interface.
+
+This is a 2D game developed in Unity by me as part of an information and network technologies program. The game features 5 playable levels with various interactive elements, characters, and a complete user interface.
+
 ![Bez názvu](https://github.com/user-attachments/assets/7bc08ed2-4c24-4081-9862-7afd1908abfc)
 
 ## 📖 Table of Contents
@@ -43,16 +45,6 @@ This is a 2D game developed in Unity by Adam Páchnik as part of an information 
 ### Built With
 - Unity 2021.3.15f1
 - Visual Studio (C#)
-
-## ℹ️ About
-Created by **Adam Páchnik** as part of information and network technologies program.
-
-**Project Goals:**
-- Gain game development experience
-- Improve C# programming skills
-- Create a complete game product
-- Explore real-world game development
-
 ---
 
 **Enjoy the game!** If you find any bugs, please open an issue.
