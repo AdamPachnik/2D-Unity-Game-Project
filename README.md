@@ -1,5 +1,6 @@
 # 🎮 2D Unity Game Project
-![image](https://github.com/user-attachments/assets/3bc95b90-2513-4b2a-9077-037a761eea63)
+This is a 2D game developed in Unity by Adam Páchnik as part of an information and network technologies program. The game features 5 playable levels with various interactive elements, characters, and a complete user interface.
+![Bez názvu](https://github.com/user-attachments/assets/7bc08ed2-4c24-4081-9862-7afd1908abfc)
 
 ## 📖 Table of Contents
 - [Features](#-features)
