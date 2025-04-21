@@ -1,18 +1,16 @@
-# 🎮 2D Unity Game Project
+# 2D Unity Game Project
 
 This is a 2D game developed in Unity by me as part of an information and network technologies program. The game features 5 playable levels with various interactive elements, characters, and a complete user interface.
 
 ![Bez názvu](https://github.com/user-attachments/assets/7bc08ed2-4c24-4081-9862-7afd1908abfc)
 
-## 📖 Table of Contents
+## Table of Contents
 - [Features](#-features)
 - [Gameplay Video](#-gameplay-video)
-- [Installation](#-installation)
 - [Controls](#-controls)
 - [Development](#-development)
-- [About](#-about)
 
-## ✨ Features
+## Features
 | Category        | Details                                                                 |
 |-----------------|-------------------------------------------------------------------------|
 | 🎚️ **Levels**   | 5 fully playable levels with increasing difficulty                      |
@@ -22,15 +20,14 @@ This is a 2D game developed in Unity by me as part of an information and network
 | 🎵 **Audio**    | Background music & sound effects                                       |
 | ⚙️ **Menu**     | Autosave, Volume controls, Controls display, Quit button               |
 
-## 🎥 Gameplay Video
-[![Gameplay Preview](https://img.youtube.com/vi/68mCHKE7U-k/maxresdefault.jpg)](https://youtu.be/68mCHKE7U-k)
+## Gameplay Video
+[▶️ Watch Gameplay on YouTube](https://youtu.be/68mCHKE7U-k)
 
-## 📥 Installation
-1. Download the latest release from [Releases](#) section
-2. Extract the ZIP file
-3. Run `GameName.exe`
+## How to run
+- Simply download this directory with .exe file [🎮 Game](https://drive.google.com/drive/folders/1eBmfYWrt_OwAMpSA0Dbdui4QLICe5o8U?usp=drive_link)
 
-## 🎮 Controls
+
+## Controls
 | Action          | Key           |
 |-----------------|---------------|
 | Left Move       | A/Left Arrow  |
@@ -41,7 +38,7 @@ This is a 2D game developed in Unity by me as part of an information and network
 | Fire Shuriken   | Q             |
 | Pause           | Esc           |
 
-## 💻 Development
+## Development
 ### Built With
 - Unity 2021.3.15f1
 - Visual Studio (C#)
