@@ -4,6 +4,10 @@ This is a 2D game developed in Unity by me as part of a high school graduation t
 
 ![Bez názvu](https://github.com/user-attachments/assets/7bc08ed2-4c24-4081-9862-7afd1908abfc)
 
+## Warning
+
+This implementation was created a long time ago when I had basically no expreience with coding and working on bigger projects. File management is a bit ugly as well as the code itself, so keep in mind that this was basically one of my first projects. Thank you :)
+
 ## Features
 | Category        | Details                                                                 |
 |-----------------|-------------------------------------------------------------------------|
